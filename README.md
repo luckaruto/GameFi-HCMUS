@@ -7,7 +7,7 @@ A next-generation **Mobile GameFi** experience that integrates **NFTs** for game
 - **NFT Integration:** Seamless transactions on **OpenSea** and **MetaMask**.
 - **Smart Contract Development:** Built on the **Ethereum** network, utilizing the **Sepolia Testnet** for beta testing.
 - **AI-Generated Assets:** All game assets are crafted using multiple AI tools to enhance development efficiency.
-- **Engaging Mini-Games:** Play exciting games like **Word Master, Diamond Puzzle, and Find Match**.
+- **Engaging Mini-Games:** Play exciting games like **Word Master, Diamond Puzzle,**.
 - **Marketplace & Breeding:** Buy, sell, and breed NFT pets to enhance gameplay.
 
 ## Screenshots
@@ -27,8 +27,8 @@ A next-generation **Mobile GameFi** experience that integrates **NFTs** for game
 
 ## Documentation & Media
 - **Thesis:** [View Here](https://drive.google.com/file/d/1mmq1V7dmwvDPcXIhKPesUFv67VqSOuTX/view?usp=drive_link)
-- **Architecture Diagram:** [View Here](https://drive.google.com/file/d/1nKIh5TDcrK0B4plxI4cGWkxq3fmUEibE/view?usp=drive_link)
-- **Gameplay & Demo Videos:** [View Here](https://drive.google.com/drive/folders/1LRXgF8tQh-oXCp7I_D-1KG4VCnlYdoRN?usp=drive_link)
+- **Poster:** [View Here](https://drive.google.com/file/d/1UPW5NWof0zuoF51hOgOkXw6o3UySgKdf/view?usp=sharing)
+- **Gameplay & Demo Videos:** [View Here](https://drive.google.com/drive/folders/14uE7Rpz6s2q_dT_6PPZdJtGfN8B_yjOO?usp=share_link)
 
 ## Technical Details
 - **Development Environment:** Hardhat
